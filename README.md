@@ -1,1 +1,1 @@
-# C-_programming_technologies_and_methods
+# programming_technologies_and_methods
